@@ -2,16 +2,8 @@
 This tool is used fo directory brute forcing in any website .
 When scan is completed it generates "HTML" document of discovered directories on web.
 # USAGE:-
-+----------------------------------------------+  
-|  ____  _____  _    _ _______ ______  __   __ |  
-| |  _ \|  __ \| |  | |__   __|  ____| \ \ / / |  
-| | |_) | |__) | |  | |  | |  | |__     \ V /  |  
-| |  _ <|  _  /| |  | |  | |  |  __|     > <   |  
-| | |_) | | \ \| |__| |  | |  | |____   / . \  |  
-| |____/|_|  \_\\____/   |_|  |______| /_/ \_\ |  
-|                                              |  
-|                                              |  
-+----------------------------------------------+   
+ <img width="414" height="305" alt="x" src="https://github.com/user-attachments/assets/665dfc16-84ca-44a3-aa6e-65b82cdf20f1" />
+   
 usage: brutex.py [-h] -u URL -d DIR  
 
 directory brute force tool  
